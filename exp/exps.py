@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # Experiment 1: To build a Gaussian Naive Bayes classifier using the Iris dataset and evaluate its accuracy.
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
