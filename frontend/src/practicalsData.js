@@ -1,4 +1,12 @@
 export const INITIAL_FILES = [
+   {
+    id: "krishna.py",
+    name: "krishna.py",
+    language: "python",
+    isModified: false,
+    content: `
+`
+  },
   {
     id: "krishna1.py",
     name: "krishna1.py",
